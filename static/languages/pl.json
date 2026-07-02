@@ -1,13 +1,13 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile jedzenia marnujemy?",
+  "subtitle": "W 2023 r. Unia Europejska wytworzyła średnio 129 kg odpadów żywnościowych na osobę. Najwyższy wskaźnik odnotowano na Cyprze – 286 kg na osobę, następnie w Danii (261 kg), Grecji (201 kg), a najniższy w Hiszpanii – 54 kg.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Mapa przedstawia łączną ilość odpadów żywnościowych we wszystkich uwzględnionych rodzajach działalności gospodarczej (Statystyczna Klasyfikacja Działalności Gospodarczej we Wspólnocie Europejskiej (NACE Rev. 2)) w Unii Europejskiej.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_CY": "Szacunkowa wartość",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "kilogramy na mieszkańca",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
