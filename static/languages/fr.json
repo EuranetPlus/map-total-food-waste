@@ -1,13 +1,13 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle quantité de nourriture gaspillons-nous ?",
+  "subtitle": "En 2023, l'Union européenne a généré en moyenne 129 kg de déchets alimentaires par personne, Chypre enregistrant le niveau le plus élevé avec 286 kg par habitant, suivie du Danemark avec 261 kg et de la Grèce avec 201 kg, tandis que l'Espagne affichait la valeur la plus basse avec 54 kg.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Cette carte visualise le gaspillage alimentaire total dans toutes les activités économiques référencées (Classification statistique des activités économiques dans la Communauté européenne (NACE Rév. 2)) au sein de l'Union européenne.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
+  "extraInfo_CY": "valeur estimée",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "kilogrammes par habitant",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
