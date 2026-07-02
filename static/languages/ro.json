@@ -1,13 +1,13 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Câtă mâncare risipim?",
+  "subtitle": "În 2023, Uniunea Europeană a generat o medie de 129 kg de risipă alimentară pe cap de locuitor, Cipru înregistrând cel mai ridicat nivel, de 286 kg pe cap de locuitor, urmat de Danemarca cu 261 kg și Grecia cu 201 kg, în timp ce Spania a avut cea mai mică valoare, de 54 kg.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Această hartă vizualizează risipa alimentară totală în toate activitățile economice la care se face referire (Clasificarea statistică a activităților economice din Comunitatea Europeană (NACE Rev. 2)) din Uniunea Europeană.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "extraInfo_CY": "Valoare estimată",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "kilograme pe cap de locuitor",
   "tooltipExtraInfoLabel": "Click aici"
 }
