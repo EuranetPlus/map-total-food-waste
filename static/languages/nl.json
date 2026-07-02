@@ -1,13 +1,13 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel voedsel verspillen we?",
+  "subtitle": "In 2023 produceerde de Europese Unie gemiddeld 129 kg voedselafval per persoon. Cyprus noteerde het hoogste niveau met 286 kg per hoofd van de bevolking, gevolgd door Denemarken met 261 kg en Griekenland met 201 kg, terwijl Spanje de laagste waarde had met 54 kg.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Deze kaart visualiseert de totale voedselverspilling in alle genoemde economische activiteiten (Statistische classificatie van economische activiteiten in de Europese Gemeenschap (NACE Rev. 2)) in de Europese Unie.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_CY": "Geschatte waarde",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "kilogram per hoofd van de bevolking",
   "tooltipExtraInfoLabel": "Klik hier"
 }
