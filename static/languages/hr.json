@@ -1,13 +1,13 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko hrane bacamo?",
+  "subtitle": "U 2023. godini Europska unija je generirala prosječno 129 kg otpada od hrane po osobi, pri čemu je Cipar zabilježio najvišu razinu s 286 kg po stanovniku, zatim Danska s 261 kg i Grčka s 201 kg, dok je Španjolska imala najnižu vrijednost s 54 kg.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Ova karta vizualizira ukupnu količinu otpada od hrane u svim referentnim gospodarskim aktivnostima (Statistička klasifikacija gospodarskih aktivnosti u Europskoj zajednici (NACE Rev. 2)) u Europskoj uniji.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
+  "extraInfo_CY": "Procijenjena vrijednost",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "kilograma po glavi stanovnika",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
