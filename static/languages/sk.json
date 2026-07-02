@@ -1,13 +1,13 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Koľko jedla vyhadzujeme?",
+  "subtitle": "V roku 2023 Európska únia vyprodukovala v priemere 129 kg potravinového odpadu na osobu, pričom najvyššiu úroveň zaznamenal Cyprus s 286 kg na obyvateľa, nasledovalo Dánsko s 261 kg a Grécko s 201 kg, zatiaľ čo Španielsko malo najnižšiu hodnotu s 54 kg.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Táto mapa zobrazuje celkové plytvanie potravinami vo všetkých uvedených hospodárskych činnostiach (Štatistická klasifikácia hospodárskych činností v Európskom spoločenstve (NACE Rev. 2)) v Európskej únii.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
+  "extraInfo_CY": "Odhadovaná hodnota",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "kilogramov na obyvateľa",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
