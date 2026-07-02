@@ -1,13 +1,13 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How much food are we wasting?",
+  "subtitle": "In 2023, the European Union generated an average of 129 kg of food waste per person, with Cyprus recording the highest level at 286 kg per capita, followed by Denmark with 261 kg and Greece with 201 kg, while Spain had the lowest value at 54 kg.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "This map visualizes total food waste across all referenced economic activities (Statistical classification of economic activities in the European Community (NACE Rev. 2)) in the European Union.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
+  "extraInfo_CY": "Estimated value",
   "legend1": "No data available",
+  "customUnitLabel": "kilograms per capita",
   "tooltipExtraInfoLabel": "Click here"
 }
