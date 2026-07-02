@@ -1,13 +1,13 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm qed naħlu ikel?",
+  "subtitle": "Fl-2023, l-Unjoni Ewropea ġġenerat medja ta’ 129 kg ta’ ħela tal-ikel għal kull persuna, b’Ċipru tirreġistra l-ogħla livell b’286 kg per capita, segwita mid-Danimarka b’261 kg u l-Greċja b’201 kg, filwaqt li Spanja kellha l-inqas valur b’54 kg.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Din il-mappa turi l-ħela totali tal-ikel fl-attivitajiet ekonomiċi kollha msemmija (Klassifikazzjoni statistika tal-attivitajiet ekonomiċi fil-Komunità Ewropea (NACE Rev. 2)) fl-Unjoni Ewropea.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
+  "extraInfo_CY": "Valur stmat",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "kilogrammi per capita",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
