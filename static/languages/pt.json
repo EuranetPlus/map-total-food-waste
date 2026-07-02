@@ -1,13 +1,13 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Quanta comida estamos desperdiçando?",
+  "subtitle": "Em 2023, a União Europeia gerou uma média de 129 kg de desperdício alimentar por pessoa, com Chipre registrando o nível mais alto, com 286 kg per capita, seguido pela Dinamarca, com 261 kg, e pela Grécia, com 201 kg, enquanto a Espanha apresentou o valor mais baixo, com 54 kg.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Este mapa visualiza o desperdício alimentar total em todas as atividades económicas referenciadas (Classificação estatística das atividades económicas na Comunidade Europeia (NACE Rev. 2)) na União Europeia.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "extraInfo_CY": "Valor estimado",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "quilogramas per capita",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
