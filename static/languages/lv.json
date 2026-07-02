@@ -1,13 +1,13 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz pārtikas mēs izšķērdējam?",
+  "subtitle": "2023. gadā Eiropas Savienībā vidēji tika radīti 129 kg pārtikas atkritumu uz vienu iedzīvotāju, un visaugstākais līmenis bija Kiprā – 286 kg uz vienu iedzīvotāju, kam sekoja Dānija ar 261 kg un Grieķija ar 201 kg, savukārt Spānijā bija viszemākais rādītājs – 54 kg.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šajā kartē ir vizualizēts kopējais pārtikas atkritumu apjoms visās atsauces saimnieciskajās darbībās (Eiropas Kopienas saimniecisko darbību statistiskā klasifikācija (NACE 2. red.)) Eiropas Savienībā.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "extraInfo_CY": "Paredzamā vērtība",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "kilogrami uz vienu iedzīvotāju",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
