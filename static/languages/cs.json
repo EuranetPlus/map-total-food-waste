@@ -1,13 +1,13 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik jídla vyplýtváme?",
+  "subtitle": "V roce 2023 vyprodukovala Evropská unie průměrně 129 kg potravinového odpadu na osobu, přičemž nejvyšší úroveň zaznamenal Kypr s 286 kg na obyvatele, následoval Dánsko s 261 kg a Řecko s 201 kg, zatímco Španělsko mělo nejnižší hodnotu s 54 kg.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Tato mapa znázorňuje celkové množství plýtvání potravinami napříč všemi uvedenými ekonomickými činnostmi (Statistická klasifikace ekonomických činností v Evropském společenství (NACE Rev. 2)) v Evropské unii.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "extraInfo_CY": "Odhadovaná hodnota",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "kilogramů na obyvatele",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
