@@ -1,13 +1,13 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viele Lebensmittel verschwenden wir?",
+  "subtitle": "Im Jahr 2023 produzierte die Europäische Union durchschnittlich 129 kg Lebensmittelabfälle pro Person. Zypern verzeichnete mit 286 kg pro Kopf den höchsten Wert, gefolgt von Dänemark mit 261 kg und Griechenland mit 201 kg, während Spanien mit 54 kg den niedrigsten Wert aufwies.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Diese Karte visualisiert die gesamte Lebensmittelverschwendung über alle referenzierten Wirtschaftszweige (Statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE Rev. 2)) in der Europäischen Union.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "extraInfo_CY": "Schätzwert",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "Kilogramm pro Kopf",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
