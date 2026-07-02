@@ -1,13 +1,13 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket mat slösar vi?",
+  "subtitle": "År 2023 genererade Europeiska unionen i genomsnitt 129 kg matsvinn per person, där Cypern hade den högsta nivån på 286 kg per capita, följt av Danmark med 261 kg och Grekland med 201 kg, medan Spanien hade det lägsta värdet på 54 kg.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Denna karta visualiserar det totala matsvinnet för alla refererade ekonomiska verksamheter (Statistisk klassificering av ekonomiska verksamheter i Europeiska gemenskapen (NACE Rev. 2)) i Europeiska unionen.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_CY": "Uppskattat värde",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "kilogram per capita",
   "tooltipExtraInfoLabel": "Klicka här"
 }
