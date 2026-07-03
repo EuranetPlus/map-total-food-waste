@@ -1,13 +1,13 @@
 {
   "title": "Cik daudz pārtikas mēs izšķērdējam?",
-  "subtitle": "2023. gadā Eiropas Savienībā vidēji tika radīti 129 kg pārtikas atkritumu uz vienu iedzīvotāju, un visaugstākais līmenis bija Kiprā – 286 kg uz vienu iedzīvotāju, kam sekoja Dānija ar 261 kg un Grieķija ar 201 kg, savukārt Spānijā bija viszemākais rādītājs – 54 kg.",
+  "subtitle": "Cik daudz pārtikas tiek izšķērdēts ES? Vidējais pārtikas atkritumu daudzums uz vienu iedzīvotāju ES 2023. gadā bija 129 kg. Visaugstākais līmenis bija Kiprā — 286 kg uz vienu iedzīvotāju, tai sekoja Dānija (261 kg) un Grieķija (201 kg). Viszemākais rādītājs bija Spānijā — 54 kg uz vienu iedzīvotāju.",
   "textNoteDescription": "Piezīme",
-  "textNote": "Šajā kartē ir vizualizēts kopējais pārtikas atkritumu apjoms visās atsauces saimnieciskajās darbībās (Eiropas Kopienas saimniecisko darbību statistiskā klasifikācija (NACE 2. red.)) Eiropas Savienībā.",
+  "textNote": "Šajā kartē ir vizualizēts kopējais pārtikas atkritumu daudzums, kas rodas visu Eiropas Savienības saimniecisko darbību rezultātā, kuras minētas Eiropas Kopienas saimniecisko darbību statistiskajā klasifikācijā (NACE 2. red.).",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_CY": "Paredzamā vērtība",
   "legend1": "Dati nav pieejami",
-  "customUnitLabel": "kilogrami uz vienu iedzīvotāju",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "extraInfo_CY": "Paredzamā vērtība",
+  "customUnitLabel": "kilogrami uz vienu iedzīvotāju"
 }

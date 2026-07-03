@@ -1,13 +1,13 @@
 {
   "title": "Hur mycket mat slösar vi?",
-  "subtitle": "År 2023 genererade Europeiska unionen i genomsnitt 129 kg matsvinn per person, där Cypern hade den högsta nivån på 286 kg per capita, följt av Danmark med 261 kg och Grekland med 201 kg, medan Spanien hade det lägsta värdet på 54 kg.",
+  "subtitle": "Hur mycket mat slängs i EU? Den genomsnittliga mängden matsvinn per person i EU år 2023 var 129 kg. Cypern registrerade den högsta nivån, med 286 kg per capita, följt av Danmark (261 kg) och Grekland (201 kg). Spanien hade den lägsta siffran, med 54 kg per person.",
   "textNoteDescription": "Notera",
-  "textNote": "Denna karta visualiserar det totala matsvinnet för alla refererade ekonomiska verksamheter (Statistisk klassificering av ekonomiska verksamheter i Europeiska gemenskapen (NACE Rev. 2)) i Europeiska unionen.",
+  "textNote": "Denna karta visualiserar den totala mängden matsvinn som genereras av alla ekonomiska verksamheter som refereras till i den statistiska näringsgrensindelningen i Europeiska gemenskapen (NACE Rev. 2) i Europeiska unionen.",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Åtkomst till data",
-  "extraInfo_CY": "Uppskattat värde",
   "legend1": "Inga data tillgängliga",
-  "customUnitLabel": "kilogram per capita",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "extraInfo_CY": "Uppskattat värde",
+  "customUnitLabel": "kilogram per capita"
 }

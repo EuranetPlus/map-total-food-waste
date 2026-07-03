@@ -1,13 +1,13 @@
 {
   "title": "Wie viele Lebensmittel verschwenden wir?",
-  "subtitle": "Im Jahr 2023 produzierte die Europäische Union durchschnittlich 129 kg Lebensmittelabfälle pro Person. Zypern verzeichnete mit 286 kg pro Kopf den höchsten Wert, gefolgt von Dänemark mit 261 kg und Griechenland mit 201 kg, während Spanien mit 54 kg den niedrigsten Wert aufwies.",
+  "subtitle": "Wie viel Lebensmittel werden in der EU verschwendet? Die durchschnittliche Menge an Lebensmittelabfällen pro Person in der EU betrug 2023 129 kg. Zypern verzeichnete mit 286 kg pro Kopf den höchsten Wert, gefolgt von Dänemark (261 kg) und Griechenland (201 kg). Spanien wies mit 54 kg pro Person den niedrigsten Wert auf.",
   "textNoteDescription": "Notiz",
-  "textNote": "Diese Karte visualisiert die gesamte Lebensmittelverschwendung über alle referenzierten Wirtschaftszweige (Statistische Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE Rev. 2)) in der Europäischen Union.",
+  "textNote": "Diese Karte veranschaulicht die Gesamtmenge an Lebensmittelabfällen, die durch alle in der Statistischen Klassifikation der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE Rev. 2) aufgeführten Wirtschaftszweige in der Europäischen Union entstehen.",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
-  "extraInfo_CY": "Schätzwert",
   "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "Kilogramm pro Kopf",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "extraInfo_CY": "Schätzwert",
+  "customUnitLabel": "Kilogramm pro Kopf"
 }

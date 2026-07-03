@@ -1,13 +1,13 @@
 {
   "title": "Quelle quantité de nourriture gaspillons-nous ?",
-  "subtitle": "En 2023, l'Union européenne a généré en moyenne 129 kg de déchets alimentaires par personne, Chypre enregistrant le niveau le plus élevé avec 286 kg par habitant, suivie du Danemark avec 261 kg et de la Grèce avec 201 kg, tandis que l'Espagne affichait la valeur la plus basse avec 54 kg.",
+  "subtitle": "Quelle quantité de nourriture est gaspillée dans l'UE ? En 2023, la quantité moyenne de déchets alimentaires générés par personne dans l'UE était de 129 kg. Chypre enregistrait le taux le plus élevé, avec 286 kg par habitant, suivie du Danemark (261 kg) et de la Grèce (201 kg). L'Espagne présentait le taux le plus bas, à 54 kg par personne.",
   "textNoteDescription": "Note",
-  "textNote": "Cette carte visualise le gaspillage alimentaire total dans toutes les activités économiques référencées (Classification statistique des activités économiques dans la Communauté européenne (NACE Rév. 2)) au sein de l'Union européenne.",
+  "textNote": "Cette carte visualise la quantité totale de déchets alimentaires générés par toutes les activités économiques référencées dans la Classification statistique des activités économiques de la Communauté européenne (NACE Rév. 2) au sein de l'Union européenne.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_CY": "valeur estimée",
   "legend1": "Aucune donnée disponible",
-  "customUnitLabel": "kilogrammes par habitant",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "extraInfo_CY": "valeur estimée",
+  "customUnitLabel": "kilogrammes par habitant"
 }

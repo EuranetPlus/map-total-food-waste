@@ -1,13 +1,13 @@
 {
   "title": "Kolik jídla vyplýtváme?",
-  "subtitle": "V roce 2023 vyprodukovala Evropská unie průměrně 129 kg potravinového odpadu na osobu, přičemž nejvyšší úroveň zaznamenal Kypr s 286 kg na obyvatele, následoval Dánsko s 261 kg a Řecko s 201 kg, zatímco Španělsko mělo nejnižší hodnotu s 54 kg.",
+  "subtitle": "Kolik potravin se v EU vyplýtvá? Průměrné množství potravinového odpadu na osobu v EU v roce 2023 bylo 129 kg. Nejvyšší úroveň zaznamenal Kypr s 286 kg na osobu, následovaný Dánskem (261 kg) a Řeckem (201 kg). Nejnižší hodnotu mělo Španělsko s 54 kg na osobu.",
   "textNoteDescription": "Poznámka",
-  "textNote": "Tato mapa znázorňuje celkové množství plýtvání potravinami napříč všemi uvedenými ekonomickými činnostmi (Statistická klasifikace ekonomických činností v Evropském společenství (NACE Rev. 2)) v Evropské unii.",
+  "textNote": "Tato mapa znázorňuje celkové množství potravinového odpadu vyprodukovaného všemi ekonomickými činnostmi uvedenými ve Statistické klasifikaci ekonomických činností v Evropském společenství (NACE Rev. 2) v Evropské unii.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_CY": "Odhadovaná hodnota",
   "legend1": "Nejsou k dispozici žádná data",
-  "customUnitLabel": "kilogramů na obyvatele",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "extraInfo_CY": "Odhadovaná hodnota",
+  "customUnitLabel": "kilogramů na obyvatele"
 }

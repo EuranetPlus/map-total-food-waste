@@ -1,13 +1,13 @@
 {
   "title": "Koľko jedla vyhadzujeme?",
-  "subtitle": "V roku 2023 Európska únia vyprodukovala v priemere 129 kg potravinového odpadu na osobu, pričom najvyššiu úroveň zaznamenal Cyprus s 286 kg na obyvateľa, nasledovalo Dánsko s 261 kg a Grécko s 201 kg, zatiaľ čo Španielsko malo najnižšiu hodnotu s 54 kg.",
+  "subtitle": "Koľko potravín sa v EÚ vyhodí? Priemerné množstvo potravinového odpadu na osobu v EÚ v roku 2023 bolo 129 kg. Cyprus zaznamenal najvyššiu úroveň s 286 kg na obyvateľa, nasledované Dánskom (261 kg) a Gréckom (201 kg). Španielsko malo najnižšiu hodnotu s 54 kg na osobu.",
   "textNoteDescription": "Poznámka",
-  "textNote": "Táto mapa zobrazuje celkové plytvanie potravinami vo všetkých uvedených hospodárskych činnostiach (Štatistická klasifikácia hospodárskych činností v Európskom spoločenstve (NACE Rev. 2)) v Európskej únii.",
+  "textNote": "Táto mapa zobrazuje celkové množstvo potravinového odpadu vyprodukovaného všetkými hospodárskymi činnosťami uvedenými v Štatistickej klasifikácii hospodárskych činností v Európskom spoločenstve (NACE Rev. 2) v Európskej únii.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_CY": "Odhadovaná hodnota",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "customUnitLabel": "kilogramov na obyvateľa",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "extraInfo_CY": "Odhadovaná hodnota",
+  "customUnitLabel": "kilogramov na obyvateľa"
 }

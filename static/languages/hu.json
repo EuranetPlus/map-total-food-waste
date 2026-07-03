@@ -1,13 +1,13 @@
 {
   "title": "Mennyi ételt pazarolunk?",
-  "subtitle": "2023-ban az Európai Unió átlagosan 129 kg élelmiszer-hulladékot termelt fejenként, Cipruson a legmagasabb, 286 kg/fős szint volt megfigyelhető, ezt követte Dánia 261 kg-mal és Görögország 201 kg-mal, míg Spanyolországban a legalacsonyabb érték volt 54 kg.",
+  "subtitle": "Mennyi élelmiszer-pazarlás történik az EU-ban? Az EU-ban fejenként átlagosan 129 kg élelmiszer-hulladék keletkezett 2023-ban. Cipruson volt a legmagasabb az egy főre jutó 286 kg, ezt követte Dánia (261 kg) és Görögország (201 kg). Spanyolországban volt a legalacsonyabb az érték, 54 kg/fő.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Ez a térkép az összes hivatkozott gazdasági tevékenység (az Európai Közösség gazdasági tevékenységeinek statisztikai osztályozása (NACE Rev. 2)) teljes élelmiszer-pazarlását vizualizálja az Európai Unióban.",
+  "textNote": "Ez a térkép az Európai Unióban az Európai Közösség gazdasági tevékenységeinek statisztikai osztályozásában (NACE Rev. 2.) említett összes gazdasági tevékenység által termelt élelmiszer-hulladék teljes mennyiségét szemlélteti.",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_CY": "Becsült érték",
   "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "kilogramm fejenként",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "extraInfo_CY": "Becsült érték",
+  "customUnitLabel": "kilogramm fejenként"
 }

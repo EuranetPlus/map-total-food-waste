@@ -1,13 +1,13 @@
 {
   "title": "Kemm qed naħlu ikel?",
-  "subtitle": "Fl-2023, l-Unjoni Ewropea ġġenerat medja ta’ 129 kg ta’ ħela tal-ikel għal kull persuna, b’Ċipru tirreġistra l-ogħla livell b’286 kg per capita, segwita mid-Danimarka b’261 kg u l-Greċja b’201 kg, filwaqt li Spanja kellha l-inqas valur b’54 kg.",
+  "subtitle": "Kemm qed jinħela ikel fl-UE? L-ammont medju ta’ ħela ta’ ikel iġġenerat għal kull persuna mill-UE fl-2023 kien ta’ 129 kg. Ċipru rreġistra l-ogħla livell, b’286 kg per capita, segwit mid-Danimarka (261 kg) u l-Greċja (201 kg). Spanja kellha l-inqas ċifra, b’54 kg għal kull persuna.",
   "textNoteDescription": "Nota",
-  "textNote": "Din il-mappa turi l-ħela totali tal-ikel fl-attivitajiet ekonomiċi kollha msemmija (Klassifikazzjoni statistika tal-attivitajiet ekonomiċi fil-Komunità Ewropea (NACE Rev. 2)) fl-Unjoni Ewropea.",
+  "textNote": "Din il-mappa turi l-ammont totali ta’ ħela tal-ikel iġġenerat mill-attivitajiet ekonomiċi kollha msemmija fil-Klassifikazzjoni Statistika tal-Attivitajiet Ekonomiċi fil-Komunità Ewropea (NACE Rev. 2) fl-Unjoni Ewropea.",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat (2026)",
   "linkDataAccessDescription": "Aċċessa d-dejta",
-  "extraInfo_CY": "Valur stmat",
   "legend1": "L-ebda dejta disponibbli",
-  "customUnitLabel": "kilogrammi per capita",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "extraInfo_CY": "Valur stmat",
+  "customUnitLabel": "kilogrammi per capita"
 }

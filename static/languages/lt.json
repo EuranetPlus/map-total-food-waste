@@ -1,13 +1,13 @@
 {
   "title": "Kiek maisto mes iššvaistome?",
-  "subtitle": "2023 m. Europos Sąjungoje vidutiniškai susidarė 129 kg maisto atliekų vienam gyventojui. Kipre užfiksuotas didžiausias lygis – 286 kg vienam gyventojui, po jo seka Danija (261 kg) ir Graikija (201 kg), o Ispanijoje – mažiausias rodiklis – 54 kg.",
+  "subtitle": "Kiek maisto iššvaistoma ES? Vidutinis maisto atliekų kiekis, tenkantis vienam gyventojui ES 2023 m., buvo 129 kg. Didžiausias kiekis užfiksuotas Kipre – 286 kg vienam gyventojui, po jo seka Danija (261 kg) ir Graikija (201 kg). Mažiausias kiekis užfiksuotas Ispanijoje – 54 kg vienam gyventojui.",
   "textNoteDescription": "Pastaba",
-  "textNote": "Šiame žemėlapyje vizualizuojamas bendras maisto atliekų kiekis visose nurodytose ekonominėse veiklose (Europos bendrijos statistinis ekonominės veiklos rūšių klasifikatorius (NACE 2 red.)) Europos Sąjungoje.",
+  "textNote": "Šiame žemėlapyje vizualizuojamas bendras maisto atliekų kiekis, susidarantis dėl visų Europos Sąjungos ekonominės veiklos rūšių, nurodytų Europos bendrijos statistiniame ekonominės veiklos rūšių klasifikatoriuje (NACE 2 red.).",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
-  "extraInfo_CY": "Apskaičiuota vertė",
   "legend1": "Nėra duomenų",
-  "customUnitLabel": "kilogramų vienam gyventojui",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "extraInfo_CY": "Apskaičiuota vertė",
+  "customUnitLabel": "kilogramų vienam gyventojui"
 }

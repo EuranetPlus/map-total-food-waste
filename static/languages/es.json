@@ -1,13 +1,13 @@
 {
   "title": "¿Cuánta comida estamos desperdiciando?",
-  "subtitle": "En 2023, la Unión Europea generó una media de 129 kg de residuos alimentarios por persona, registrándose el nivel más alto en Chipre con 286 kg per cápita, seguido de Dinamarca con 261 kg y Grecia con 201 kg, mientras que España tuvo el valor más bajo con 54 kg.",
+  "subtitle": "¿Cuánta comida se desperdicia en la UE? La cantidad media de desperdicio de alimentos generada por persona en la UE en 2023 fue de 129 kg. Chipre registró el nivel más alto, con 286 kg per cápita, seguido de Dinamarca (261 kg) y Grecia (201 kg). España tuvo la cifra más baja, con 54 kg por persona.",
   "textNoteDescription": "Nota",
-  "textNote": "Este mapa muestra el desperdicio total de alimentos en todas las actividades económicas de referencia (Clasificación estadística de las actividades económicas en la Comunidad Europea (NACE Rev. 2)) en la Unión Europea.",
+  "textNote": "Este mapa muestra la cantidad total de residuos alimentarios generados por todas las actividades económicas a las que se hace referencia en la Clasificación Estadística de Actividades Económicas en la Comunidad Europea (NACE Rev. 2) en la Unión Europea.",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_CY": "Valor estimado",
   "legend1": "No hay datos disponibles",
-  "customUnitLabel": "kilogramos per cápita",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "extraInfo_CY": "Valor estimado",
+  "customUnitLabel": "kilogramos per cápita"
 }

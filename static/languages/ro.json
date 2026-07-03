@@ -1,13 +1,13 @@
 {
   "title": "Câtă mâncare risipim?",
-  "subtitle": "În 2023, Uniunea Europeană a generat o medie de 129 kg de risipă alimentară pe cap de locuitor, Cipru înregistrând cel mai ridicat nivel, de 286 kg pe cap de locuitor, urmat de Danemarca cu 261 kg și Grecia cu 201 kg, în timp ce Spania a avut cea mai mică valoare, de 54 kg.",
+  "subtitle": "Câtă mâncare se irosește în UE? Cantitatea medie de risipă alimentară generată pe cap de locuitor de către UE în 2023 a fost de 129 kg. Cipru a înregistrat cel mai ridicat nivel, cu 286 kg pe cap de locuitor, urmat de Danemarca (261 kg) și Grecia (201 kg). Spania a avut cea mai mică cifră, de 54 kg pe cap de locuitor.",
   "textNoteDescription": "Nota",
-  "textNote": "Această hartă vizualizează risipa alimentară totală în toate activitățile economice la care se face referire (Clasificarea statistică a activităților economice din Comunitatea Europeană (NACE Rev. 2)) din Uniunea Europeană.",
+  "textNote": "Această hartă vizualizează cantitatea totală de risipă alimentară generată de toate activitățile economice menționate în Clasificarea statistică a activităților economice din Comunitatea Europeană (NACE Rev. 2) în Uniunea Europeană.",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_CY": "Valoare estimată",
   "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "kilograme pe cap de locuitor",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "extraInfo_CY": "Valoare estimată",
+  "customUnitLabel": "kilograme pe cap de locuitor"
 }

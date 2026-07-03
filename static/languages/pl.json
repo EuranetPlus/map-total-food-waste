@@ -1,13 +1,13 @@
 {
   "title": "Ile jedzenia marnujemy?",
-  "subtitle": "W 2023 r. Unia Europejska wytworzyła średnio 129 kg odpadów żywnościowych na osobę. Najwyższy wskaźnik odnotowano na Cyprze – 286 kg na osobę, następnie w Danii (261 kg), Grecji (201 kg), a najniższy w Hiszpanii – 54 kg.",
+  "subtitle": "Ile żywności marnuje się w UE? Średnia ilość marnowanej żywności na osobę w UE w 2023 roku wyniosła 129 kg. Najwyższy poziom odnotował Cypr – 286 kg na osobę, następnie Dania (261 kg) i Grecja (201 kg). Najniższy wskaźnik odnotowano w Hiszpanii – 54 kg na osobę.",
   "textNoteDescription": "Notatka",
-  "textNote": "Mapa przedstawia łączną ilość odpadów żywnościowych we wszystkich uwzględnionych rodzajach działalności gospodarczej (Statystyczna Klasyfikacja Działalności Gospodarczej we Wspólnocie Europejskiej (NACE Rev. 2)) w Unii Europejskiej.",
+  "textNote": "Mapa przedstawia całkowitą ilość odpadów żywnościowych wytworzonych przez wszystkie rodzaje działalności gospodarczej w Unii Europejskiej wymienione w Statystycznej Klasyfikacji Działalności Gospodarczej we Wspólnocie Europejskiej (NACE Rev. 2).",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostęp do danych",
-  "extraInfo_CY": "Szacunkowa wartość",
   "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "kilogramy na mieszkańca",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "extraInfo_CY": "Szacunkowa wartość",
+  "customUnitLabel": "kilogramy na mieszkańca"
 }

@@ -1,13 +1,13 @@
 {
   "title": "Koliko hrane zavržemo?",
-  "subtitle": "Leta 2023 je Evropska unija ustvarila povprečno 129 kg odpadne hrane na osebo, pri čemer je Ciper zabeležil najvišjo raven z 286 kg na prebivalca, sledili sta Danska z 261 kg in Grčija z 201 kg, Španija pa je imela najnižjo vrednost s 54 kg.",
+  "subtitle": "Koliko hrane se zavrže v EU? Povprečna količina odpadne hrane na osebo v EU je bila leta 2023 129 kg. Ciper je zabeležil najvišjo raven, 286 kg na prebivalca, sledili sta Danska (261 kg) in Grčija (201 kg). Španija je imela najnižjo številko, 54 kg na osebo.",
   "textNoteDescription": "Opomba",
-  "textNote": "Ta zemljevid prikazuje skupno količino odpadne hrane v vseh navedenih gospodarskih dejavnostih (statistična klasifikacija gospodarskih dejavnosti v Evropski skupnosti (NACE Rev. 2)) v Evropski uniji.",
+  "textNote": "Ta zemljevid prikazuje skupno količino odpadne hrane, ki jo ustvarijo vse gospodarske dejavnosti, navedene v statistični klasifikaciji gospodarskih dejavnosti v Evropski skupnosti (NACE Rev. 2) v Evropski uniji.",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_CY": "Ocenjena vrednost",
   "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "kilogramov na prebivalca",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "extraInfo_CY": "Ocenjena vrednost",
+  "customUnitLabel": "kilogramov na prebivalca"
 }

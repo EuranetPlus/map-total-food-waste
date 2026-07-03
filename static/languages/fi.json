@@ -1,13 +1,13 @@
 {
   "title": "Kuinka paljon ruokaa me haaskaamme?",
-  "subtitle": "Vuonna 2023 Euroopan unioni tuotti keskimäärin 129 kg ruokahävikkiä henkeä kohti. Kyproksella kirjattiin korkein taso, 286 kg henkeä kohti, jota seurasivat Tanska 261 kg:lla ja Kreikka 201 kg:lla, kun taas Espanjassa luku oli pienin, 54 kg.",
+  "subtitle": "Kuinka paljon ruokaa menee hukkaan EU:ssa? EU:ssa syntyneen ruokahävikin keskimääräinen määrä henkeä kohti vuonna 2023 oli 129 kg. Kyproksella kirjattiin korkein luku, 286 kg henkeä kohti, jota seurasivat Tanska (261 kg) ja Kreikka (201 kg). Espanjassa luku oli pienin, 54 kg henkeä kohti.",
   "textNoteDescription": "Huomautus",
-  "textNote": "Tämä kartta visualisoi kokonaisruokahävikin kaikilla viitatuilla taloudellisilla toimialoilla (Euroopan yhteisön tilastollinen toimialaluokitus (NACE Rev. 2)) Euroopan unionissa.",
+  "textNote": "Tämä kartta visualisoi kaikkien Euroopan yhteisön taloudellisten toimialojen tilastollisessa toimialaluokituksessa (NACE Rev. 2) mainittujen taloudellisten toimintojen tuottaman ruokajätteen kokonaismäärän Euroopan unionissa.",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_CY": "Arvioitu arvo",
   "legend1": "Ei tietoja saatavilla",
-  "customUnitLabel": "kilogrammaa henkeä kohti",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "extraInfo_CY": "Arvioitu arvo",
+  "customUnitLabel": "kilogrammaa henkeä kohti"
 }

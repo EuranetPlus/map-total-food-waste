@@ -1,13 +1,13 @@
 {
   "title": "Quanto cibo stiamo sprecando?",
-  "subtitle": "Nel 2023, l'Unione Europea ha generato una media di 129 kg di rifiuti alimentari pro capite, con Cipro che ha registrato il livello più alto con 286 kg pro capite, seguita dalla Danimarca con 261 kg e dalla Grecia con 201 kg, mentre la Spagna ha avuto il valore più basso con 54 kg.",
+  "subtitle": "Quanto cibo viene sprecato nell'UE? La quantità media di cibo sprecato pro capite nell'UE nel 2023 è stata di 129 kg. Cipro ha registrato il livello più alto, con 286 kg pro capite, seguita da Danimarca (261 kg) e Grecia (201 kg). La Spagna ha registrato il dato più basso, con 54 kg pro capite.",
   "textNoteDescription": "Nota",
-  "textNote": "Questa mappa visualizza lo spreco alimentare totale in tutte le attività economiche di riferimento (Classificazione statistica delle attività economiche nella Comunità europea (NACE Rev. 2)) nell'Unione europea.",
+  "textNote": "Questa mappa visualizza la quantità totale di rifiuti alimentari generati da tutte le attività economiche citate nella Classificazione statistica delle attività economiche nella Comunità europea (NACE Rev. 2) nell'Unione europea.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accedere ai dati",
-  "extraInfo_CY": "Valore stimato",
   "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "chilogrammi pro capite",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "extraInfo_CY": "Valore stimato",
+  "customUnitLabel": "chilogrammi pro capite"
 }

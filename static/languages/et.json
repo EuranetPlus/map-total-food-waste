@@ -1,13 +1,13 @@
 {
   "title": "Kui palju toitu me raiskame?",
-  "subtitle": "2023. aastal tekitas Euroopa Liit keskmiselt 129 kg toidujäätmeid inimese kohta, kusjuures Küprosel registreeriti kõrgeim tase – 286 kg elaniku kohta, järgnesid Taani 261 kg ja Kreeka 201 kg, samas kui Hispaanias oli madalaim näitaja – 54 kg.",
+  "subtitle": "Kui palju toitu ELis raisatakse? ELis tekitatud toidujäätmete keskmine kogus inimese kohta oli 2023. aastal 129 kg. Kõrgeim tase registreeriti Küprosel, 286 kg inimese kohta, järgnesid Taani (261 kg) ja Kreeka (201 kg). Madalaim oli näitaja Hispaanias, 54 kg inimese kohta.",
   "textNoteDescription": "Märkus",
-  "textNote": "See kaart visualiseerib toidujäätmete koguhulka kõigi viidatud majandustegevuste (Euroopa Ühenduse majanduse tegevusalade statistiline klassifikaator (NACE Rev. 2)) lõikes Euroopa Liidus.",
+  "textNote": "See kaart visualiseerib Euroopa Liidus Euroopa Ühenduse majanduse tegevusalade statistilises klassifikaatoris (NACE Rev. 2) viidatud kõigi majandustegevuste tekitatud toidujäätmete koguhulka.",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_CY": "Hinnanguline väärtus",
   "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "kilogrammi elaniku kohta",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "extraInfo_CY": "Hinnanguline väärtus",
+  "customUnitLabel": "kilogrammi elaniku kohta"
 }

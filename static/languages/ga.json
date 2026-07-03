@@ -1,13 +1,13 @@
 {
   "title": "Cé mhéad bia atá á chur amú againn?",
-  "subtitle": "Sa bhliain 2023, ghin an tAontas Eorpach meán de 129 kg de dhramhaíl bia in aghaidh an duine, agus an Chipir ag taifeadadh an leibhéal is airde ag 286 kg in aghaidh an duine, agus an Danmhairg ina diaidh le 261 kg agus an Ghréig le 201 kg, agus an Spáinn ag an luach is ísle ag 54 kg.",
+  "subtitle": "Cé mhéad bia a chuirtear amú san AE? Ba é 129 kg an meánmhéid dramhaíola bia a ghintear in aghaidh an duine san AE in 2023. Ba sa Chipir a thaifead an leibhéal is airde, le 286 kg in aghaidh an duine, agus ina diaidh sin an Danmhairg (261 kg) agus an Ghréig (201 kg). Ba sa Spáinn a bhí an figiúr is ísle, le 54 kg in aghaidh an duine.",
   "textNoteDescription": "Nóta",
-  "textNote": "Léiríonn an léarscáil seo an cur amú bia iomlán ar fud na ngníomhaíochtaí eacnamaíocha tagartha go léir (Aicmiú staitistiúil gníomhaíochtaí eacnamaíocha sa Chomhphobal Eorpach (NACE Athbhreithniú 2)) san Aontas Eorpach.",
+  "textNote": "Léiríonn an léarscáil seo an méid iomlán dramhaíola bia a ghintear ag na gníomhaíochtaí eacnamaíocha uile dá dtagraítear in Aicmiú Staidrimh na nGníomhaíochtaí Eacnamaíocha sa Chomhphobal Eorpach (NACE Athbhreithniú 2) san Aontas Eorpach.",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
-  "extraInfo_CY": "Luach measta",
   "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "cileagraim in aghaidh an duine",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "extraInfo_CY": "Luach measta",
+  "customUnitLabel": "cileagraim in aghaidh an duine"
 }

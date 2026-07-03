@@ -1,13 +1,13 @@
 {
   "title": "Hoeveel voedsel verspillen we?",
-  "subtitle": "In 2023 produceerde de Europese Unie gemiddeld 129 kg voedselafval per persoon. Cyprus noteerde het hoogste niveau met 286 kg per hoofd van de bevolking, gevolgd door Denemarken met 261 kg en Griekenland met 201 kg, terwijl Spanje de laagste waarde had met 54 kg.",
+  "subtitle": "Hoeveel voedsel wordt er verspild in de EU? De gemiddelde hoeveelheid voedselverspilling per persoon in de EU bedroeg in 2023 129 kg. Cyprus had het hoogste niveau met 286 kg per hoofd van de bevolking, gevolgd door Denemarken (261 kg) en Griekenland (201 kg). Spanje had het laagste cijfer, met 54 kg per persoon.",
   "textNoteDescription": "Opmerking",
-  "textNote": "Deze kaart visualiseert de totale voedselverspilling in alle genoemde economische activiteiten (Statistische classificatie van economische activiteiten in de Europese Gemeenschap (NACE Rev. 2)) in de Europese Unie.",
+  "textNote": "Deze kaart visualiseert de totale hoeveelheid voedselverspilling die wordt gegenereerd door alle economische activiteiten die zijn opgenomen in de statistische classificatie van economische activiteiten in de Europese Gemeenschap (NACE Rev. 2) in de Europese Unie.",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_CY": "Geschatte waarde",
   "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "kilogram per hoofd van de bevolking",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "extraInfo_CY": "Geschatte waarde",
+  "customUnitLabel": "kilogram per hoofd van de bevolking"
 }

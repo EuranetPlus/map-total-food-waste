@@ -1,13 +1,13 @@
 {
   "title": "Quanta comida estamos desperdiçando?",
-  "subtitle": "Em 2023, a União Europeia gerou uma média de 129 kg de desperdício alimentar por pessoa, com Chipre registrando o nível mais alto, com 286 kg per capita, seguido pela Dinamarca, com 261 kg, e pela Grécia, com 201 kg, enquanto a Espanha apresentou o valor mais baixo, com 54 kg.",
+  "subtitle": "Qual é o nível de desperdício alimentar na UE? A média de desperdício alimentar por pessoa na UE em 2023 foi de 129 kg. Chipre registrou o nível mais alto, com 286 kg per capita, seguido pela Dinamarca (261 kg) e Grécia (201 kg). A Espanha apresentou o menor índice, com 54 kg por pessoa.",
   "textNoteDescription": "Observação",
-  "textNote": "Este mapa visualiza o desperdício alimentar total em todas as atividades económicas referenciadas (Classificação estatística das atividades económicas na Comunidade Europeia (NACE Rev. 2)) na União Europeia.",
+  "textNote": "Este mapa visualiza a quantidade total de desperdício alimentar gerado por todas as atividades econômicas referenciadas na Classificação Estatística das Atividades Econômicas na Comunidade Europeia (NACE Rev. 2) na União Europeia.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_CY": "Valor estimado",
   "legend1": "Não há dados disponíveis.",
-  "customUnitLabel": "quilogramas per capita",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "extraInfo_CY": "Valor estimado",
+  "customUnitLabel": "quilogramas per capita"
 }

@@ -1,13 +1,13 @@
 {
   "title": "Hvor meget mad spilder vi?",
-  "subtitle": "I 2023 genererede Den Europæiske Union i gennemsnit 129 kg madspild pr. person, hvor Cypern registrerede det højeste niveau med 286 kg pr. indbygger, efterfulgt af Danmark med 261 kg og Grækenland med 201 kg, mens Spanien havde den laveste værdi med 54 kg.",
+  "subtitle": "Hvor meget mad spildes i EU? Den gennemsnitlige mængde madspild genereret pr. person i EU i 2023 var 129 kg. Cypern registrerede det højeste niveau med 286 kg pr. indbygger, efterfulgt af Danmark (261 kg) og Grækenland (201 kg). Spanien havde det laveste tal med 54 kg pr. person.",
   "textNoteDescription": "Note",
-  "textNote": "Dette kort visualiserer det samlede madspild på tværs af alle refererede økonomiske aktiviteter (Statistisk klassificering af økonomiske aktiviteter i Det Europæiske Fællesskab (NACE Rev. 2)) i Den Europæiske Union.",
+  "textNote": "Dette kort visualiserer den samlede mængde madspild, der genereres af alle de økonomiske aktiviteter, der er nævnt i den statistiske nomenklatur for økonomiske aktiviteter i Det Europæiske Fællesskab (NACE Rev. 2) i Den Europæiske Union.",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
-  "extraInfo_CY": "Estimeret værdi",
   "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "kilogram pr. indbygger",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "extraInfo_CY": "Estimeret værdi",
+  "customUnitLabel": "kilogram pr. indbygger"
 }
